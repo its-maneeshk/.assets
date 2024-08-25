@@ -13,5 +13,24 @@ This repository serves as a central hub for storing and managing all demo images
 
 To reference images from this `.assets` repository in your project repositories, use the following Markdown syntax:
 
-```markdown
-![Alt Text](https://raw.githubusercontent.com/YourGitHubUsername/.assets/main/ProjectName/image.png)
+`markdown
+![Alt Text](parmanent link here)
+`
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> | 
+  <a href="mailto:maneeshkurmii@gmail.com">Email Me</a> | 
+  <a href="https://www.linkedin.com/in/itsmaneeshk/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java" alt="Java Badge">
+  <img src="https://img.shields.io/badge/Tool-Git-orange?style=flat-square&logo=git" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Project-Open%20Source-brightgreen?style=flat-square" alt="Open Source Badge">
+</p>
+
+<p align="center">
+  🚀 Follow my work at <a href="https://github.com/its-maneeshk" target="_blank">GitHub</a> and let's build something amazing together!
+</p>
