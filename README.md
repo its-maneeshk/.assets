@@ -13,8 +13,9 @@ This repository serves as a central hub for storing and managing all demo images
 
 To reference images from this `.assets` repository in your project repositories, use the following Markdown syntax:
 
-```markdown
+`markdown
 ![Alt Text](parmanent link here)
+`
 
 ---
 
